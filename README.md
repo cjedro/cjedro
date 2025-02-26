@@ -39,6 +39,5 @@
 **NOTE:** Some stats may be incorrect as contributions to organizations
 are not counted.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkroepke&count_private=false&theme=tokyonight&show_icons=true)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
