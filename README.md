@@ -9,12 +9,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-modbus-exporter-0.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-modbus-exporter-0.1.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.17](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.17), today) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.4](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.4), 3 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), 4 days ago) - Microsoft 365 prometheus exporter
 
 #### 🔨 My recent Pull Requests
 
+- [add logo and center header](https://github.com/cloudeteer/m365-exporter/pull/21) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [Ignore tag changes on virtual machine extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/62) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 days ago)
 - [OE-212: add user metrics](https://github.com/cloudeteer/m365-exporter/pull/19) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 week ago)
 - [OE-209: add intune os metrics](https://github.com/cloudeteer/m365-exporter/pull/14) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 week ago)
@@ -24,7 +25,6 @@
 - [[kube-prometheus-stack] add strategy to admission webhook deployment](https://github.com/prometheus-community/helm-charts/pull/4335) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 - [[prometheus-windows-exporter] add memory collector to windows-exporter values.yaml](https://github.com/prometheus-community/helm-charts/pull/4028) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 - [helm chart: additional options to add environment variables](https://github.com/grafana/agent/pull/5810) on [grafana/agent](https://github.com/grafana/agent) (1 year ago)
-- [add windows build](https://github.com/cloudeteer/goldpinger/pull/1) on [cloudeteer/goldpinger](https://github.com/cloudeteer/goldpinger) (1 year ago)
 
 #### ⭐ Recent Stars
 
