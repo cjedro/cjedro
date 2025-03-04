@@ -15,6 +15,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add m365-exporter chart](https://github.com/cloudeteer/helm-charts/pull/3) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (today)
 - [add logo and center header](https://github.com/cloudeteer/m365-exporter/pull/21) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 days ago)
 - [Ignore tag changes on virtual machine extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/62) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (1 week ago)
 - [OE-212: add user metrics](https://github.com/cloudeteer/m365-exporter/pull/19) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 week ago)
@@ -24,7 +25,6 @@
 - [docs: fix mixed words in querier documentation](https://github.com/thanos-io/thanos/pull/7203) on [thanos-io/thanos](https://github.com/thanos-io/thanos) (11 months ago)
 - [[kube-prometheus-stack] add strategy to admission webhook deployment](https://github.com/prometheus-community/helm-charts/pull/4335) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 - [[prometheus-windows-exporter] add memory collector to windows-exporter values.yaml](https://github.com/prometheus-community/helm-charts/pull/4028) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
-- [helm chart: additional options to add environment variables](https://github.com/grafana/agent/pull/5810) on [grafana/agent](https://github.com/grafana/agent) (1 year ago)
 
 #### ⭐ Recent Stars
 
