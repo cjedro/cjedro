@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.13.0), today) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.0), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.12.0), today) - Prometheus community Helm charts
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), 1 week ago) - Microsoft 365 prometheus exporter
 
 #### 🔨 My recent Pull Requests
