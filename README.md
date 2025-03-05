@@ -30,6 +30,7 @@
 
 #### ⭐ Recent Stars
 
+- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) - Prometheus exporter for Azure LogAnalytics (Kusto queries) (today)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (today)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (3 weeks ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 month ago)
