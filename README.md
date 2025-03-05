@@ -3,20 +3,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (1 day ago)
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (today)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (5 days ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.0.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.0.0), 1 day ago) - cloudeteer&#39;s helm chart repositories
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.0.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.0.1), today) - cloudeteer&#39;s helm chart repositories
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.13.0), 1 day ago) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.0), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), 1 week ago) - Microsoft 365 prometheus exporter
 
 #### 🔨 My recent Pull Requests
 
+- [bump chart version so releaser adds artifacthub configuration to gh-pages](https://github.com/cloudeteer/helm-charts/pull/5) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (today)
+- [add artifact hub verification](https://github.com/cloudeteer/helm-charts/pull/4) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (today)
 - [add m365-exporter chart](https://github.com/cloudeteer/helm-charts/pull/3) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 day ago)
 - [add logo and center header](https://github.com/cloudeteer/m365-exporter/pull/21) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (5 days ago)
 - [Ignore tag changes on virtual machine extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/62) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (1 week ago)
@@ -25,8 +27,6 @@
 - [Update Azure common images aka URN aliases](https://github.com/cloudeteer/terraform-azurerm-vm/pull/54) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 months ago)
 - [[prometheus] add tpl to ingress](https://github.com/prometheus-community/helm-charts/pull/4956) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 months ago)
 - [docs: fix mixed words in querier documentation](https://github.com/thanos-io/thanos/pull/7203) on [thanos-io/thanos](https://github.com/thanos-io/thanos) (11 months ago)
-- [[kube-prometheus-stack] add strategy to admission webhook deployment](https://github.com/prometheus-community/helm-charts/pull/4335) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
-- [[prometheus-windows-exporter] add memory collector to windows-exporter values.yaml](https://github.com/prometheus-community/helm-charts/pull/4028) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 
 #### ⭐ Recent Stars
 
