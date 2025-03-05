@@ -3,22 +3,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (today)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (4 days ago)
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (1 day ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (5 days ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.0.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.0.0), today) - cloudeteer&#39;s helm chart repositories
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.13.0), today) - Prometheus community Helm charts
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.0), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.0.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.0.0), 1 day ago) - cloudeteer&#39;s helm chart repositories
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.13.0), 1 day ago) - Prometheus community Helm charts
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.0), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), 1 week ago) - Microsoft 365 prometheus exporter
 
 #### 🔨 My recent Pull Requests
 
-- [add m365-exporter chart](https://github.com/cloudeteer/helm-charts/pull/3) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (today)
-- [add logo and center header](https://github.com/cloudeteer/m365-exporter/pull/21) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 days ago)
+- [add m365-exporter chart](https://github.com/cloudeteer/helm-charts/pull/3) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 day ago)
+- [add logo and center header](https://github.com/cloudeteer/m365-exporter/pull/21) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (5 days ago)
 - [Ignore tag changes on virtual machine extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/62) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (1 week ago)
 - [OE-212: add user metrics](https://github.com/cloudeteer/m365-exporter/pull/19) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 week ago)
 - [OE-209: add intune os metrics](https://github.com/cloudeteer/m365-exporter/pull/14) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 week ago)
@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (2 weeks ago)
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (3 weeks ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 month ago)
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery (1 year ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (1 year ago)
