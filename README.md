@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.1.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.1.1), 1 day ago) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.1), 1 week ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.0.2](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.0.2), 2 weeks ago) - cloudeteer&#39;s helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), 3 weeks ago) - Microsoft 365 prometheus exporter
@@ -23,8 +23,8 @@
 - [add m365-exporter chart](https://github.com/cloudeteer/helm-charts/pull/3) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 weeks ago)
 - [add logo and center header](https://github.com/cloudeteer/m365-exporter/pull/21) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 weeks ago)
 - [Ignore tag changes on virtual machine extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/62) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 weeks ago)
-- [OE-212: add user metrics](https://github.com/cloudeteer/m365-exporter/pull/19) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 weeks ago)
-- [OE-209: add intune os metrics](https://github.com/cloudeteer/m365-exporter/pull/14) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 weeks ago)
+- [OE-212: add user metrics](https://github.com/cloudeteer/m365-exporter/pull/19) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 weeks ago)
+- [OE-209: add intune os metrics](https://github.com/cloudeteer/m365-exporter/pull/14) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 weeks ago)
 - [Update Azure common images aka URN aliases](https://github.com/cloudeteer/terraform-azurerm-vm/pull/54) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 months ago)
 - [[prometheus] add tpl to ingress](https://github.com/prometheus-community/helm-charts/pull/4956) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 months ago)
 
