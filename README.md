@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add usage for management group with azResourceGraphQuery](https://github.com/webdevops/helm-azure-tpl/pull/78) on [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) (today)
 - [add information to helm chart](https://github.com/cloudeteer/helm-charts/pull/6) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 weeks ago)
 - [bump chart version so releaser adds artifacthub configuration to gh-pages](https://github.com/cloudeteer/helm-charts/pull/5) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 weeks ago)
 - [add artifact hub verification](https://github.com/cloudeteer/helm-charts/pull/4) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 weeks ago)
@@ -26,7 +27,6 @@
 - [OE-212: add user metrics](https://github.com/cloudeteer/m365-exporter/pull/19) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 weeks ago)
 - [OE-209: add intune os metrics](https://github.com/cloudeteer/m365-exporter/pull/14) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 weeks ago)
 - [Update Azure common images aka URN aliases](https://github.com/cloudeteer/terraform-azurerm-vm/pull/54) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 months ago)
-- [[prometheus] add tpl to ingress](https://github.com/prometheus-community/helm-charts/pull/4956) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 months ago)
 
 #### ⭐ Recent Stars
 
