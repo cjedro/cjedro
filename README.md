@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add sharepoint storage quota metrics collector](https://github.com/cloudeteer/m365-exporter/pull/27) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [docs: add usage for management group with azResourceGraphQuery](https://github.com/webdevops/helm-azure-tpl/pull/78) on [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) (3 days ago)
 - [add information to helm chart](https://github.com/cloudeteer/helm-charts/pull/6) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 weeks ago)
 - [bump chart version so releaser adds artifacthub configuration to gh-pages](https://github.com/cloudeteer/helm-charts/pull/5) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 weeks ago)
@@ -26,7 +27,6 @@
 - [Ignore tag changes on virtual machine extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/62) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 weeks ago)
 - [OE-212: add user metrics](https://github.com/cloudeteer/m365-exporter/pull/19) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [OE-209: add intune os metrics](https://github.com/cloudeteer/m365-exporter/pull/14) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
-- [Update Azure common images aka URN aliases](https://github.com/cloudeteer/terraform-azurerm-vm/pull/54) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 months ago)
 
 #### ⭐ Recent Stars
 
