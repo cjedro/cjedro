@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [revert renovate.json, need to test this in another repo first](https://github.com/cloudeteer/helm-charts/pull/14) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (today)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/12) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (today)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/10) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (today)
 - [feat: add sharepoint storage quota metrics collector](https://github.com/cloudeteer/m365-exporter/pull/27) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 days ago)
@@ -26,7 +27,6 @@
 - [add artifact hub verification](https://github.com/cloudeteer/helm-charts/pull/4) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (3 weeks ago)
 - [add m365-exporter chart](https://github.com/cloudeteer/helm-charts/pull/3) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (3 weeks ago)
 - [add logo and center header](https://github.com/cloudeteer/m365-exporter/pull/21) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 weeks ago)
-- [Ignore tag changes on virtual machine extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/62) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
