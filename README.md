@@ -3,15 +3,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (6 days ago)
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (1 week ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 week ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (1 month ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.2.1), today) - Prometheus community Helm charts
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.1.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.1.0), 6 days ago) - cloudeteer&#39;s helm chart repositories
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.2.1), 1 day ago) - Prometheus community Helm charts
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.1.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.1.0), 1 week ago) - cloudeteer&#39;s helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.2.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.2.0), 1 week ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.1), 3 weeks ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 
@@ -25,12 +25,12 @@
 - [add information to helm chart](https://github.com/cloudeteer/helm-charts/pull/6) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 weeks ago)
 - [bump chart version so releaser adds artifacthub configuration to gh-pages](https://github.com/cloudeteer/helm-charts/pull/5) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 weeks ago)
 - [add artifact hub verification](https://github.com/cloudeteer/helm-charts/pull/4) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 weeks ago)
-- [add m365-exporter chart](https://github.com/cloudeteer/helm-charts/pull/3) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 weeks ago)
+- [add m365-exporter chart](https://github.com/cloudeteer/helm-charts/pull/3) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
 - [add logo and center header](https://github.com/cloudeteer/m365-exporter/pull/21) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 days ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (3 days ago)
 - [webdevops/azure-resourcegraph-exporter](https://github.com/webdevops/azure-resourcegraph-exporter) - Prometheus exporter for Azure ResourceGraph queries (1 week ago)
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine (1 week ago)
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) - Prometheus exporter for Azure LogAnalytics (Kusto queries) (4 weeks ago)
