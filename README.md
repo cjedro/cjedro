@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.1.0), 1 day ago) - Prometheus community Helm charts
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.1.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.1.0), 1 week ago) - cloudeteer&#39;s helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.2.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.2.0), 1 week ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.1), 3 weeks ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
@@ -20,7 +20,7 @@
 - [revert renovate.json, need to test this in another repo first](https://github.com/cloudeteer/helm-charts/pull/14) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 week ago)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/12) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 week ago)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/10) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 week ago)
-- [feat: add sharepoint storage quota metrics collector](https://github.com/cloudeteer/m365-exporter/pull/27) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 week ago)
+- [feat: add sharepoint storage quota metrics collector](https://github.com/cloudeteer/m365-exporter/pull/27) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 weeks ago)
 - [docs: add usage for management group with azResourceGraphQuery](https://github.com/webdevops/helm-azure-tpl/pull/78) on [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) (2 weeks ago)
 - [add information to helm chart](https://github.com/cloudeteer/helm-charts/pull/6) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
 - [bump chart version so releaser adds artifacthub configuration to gh-pages](https://github.com/cloudeteer/helm-charts/pull/5) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (6 days ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 week ago)
 - [webdevops/azure-resourcegraph-exporter](https://github.com/webdevops/azure-resourcegraph-exporter) - Prometheus exporter for Azure ResourceGraph queries (2 weeks ago)
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine (2 weeks ago)
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) - Prometheus exporter for Azure LogAnalytics (Kusto queries) (1 month ago)
