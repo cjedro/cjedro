@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add option to disable collectors](https://github.com/cloudeteer/m365-exporter/pull/40) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [revert renovate.json, need to test this in another repo first](https://github.com/cloudeteer/helm-charts/pull/14) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 weeks ago)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/12) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 weeks ago)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/10) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 weeks ago)
@@ -26,7 +27,6 @@
 - [bump chart version so releaser adds artifacthub configuration to gh-pages](https://github.com/cloudeteer/helm-charts/pull/5) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
 - [add artifact hub verification](https://github.com/cloudeteer/helm-charts/pull/4) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
 - [add m365-exporter chart](https://github.com/cloudeteer/helm-charts/pull/3) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
-- [add logo and center header](https://github.com/cloudeteer/m365-exporter/pull/21) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 
 #### ⭐ Recent Stars
 
