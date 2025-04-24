@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (today)
-- [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (3 weeks ago)
+- [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (today)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (4 weeks ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 months ago)
@@ -18,6 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: remove expired secret](https://github.com/cloudeteer/playground-stackit/pull/9) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (today)
 - [add option to disable collectors](https://github.com/cloudeteer/m365-exporter/pull/40) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 day ago)
 - [revert renovate.json, need to test this in another repo first](https://github.com/cloudeteer/helm-charts/pull/14) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 weeks ago)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/12) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 weeks ago)
@@ -27,7 +28,6 @@
 - [add information to helm chart](https://github.com/cloudeteer/helm-charts/pull/6) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
 - [bump chart version so releaser adds artifacthub configuration to gh-pages](https://github.com/cloudeteer/helm-charts/pull/5) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
 - [add artifact hub verification](https://github.com/cloudeteer/helm-charts/pull/4) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
-- [add m365-exporter chart](https://github.com/cloudeteer/helm-charts/pull/3) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
 
 #### ⭐ Recent Stars
 
