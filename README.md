@@ -3,23 +3,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 days ago)
-- [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (2 days ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (3 days ago)
+- [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (3 days ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (1 month ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (2 months ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.33.0), today) - Prometheus community Helm charts
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), 2 days ago) - Microsoft 365 prometheus exporter
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.1), 3 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.33.0), 1 day ago) - Prometheus community Helm charts
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), 3 days ago) - Microsoft 365 prometheus exporter
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.1), 4 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.1.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.1.0), 1 month ago) - cloudeteer&#39;s helm chart repositories
 
 #### 🔨 My recent Pull Requests
 
-- [feat: remove expired secret](https://github.com/cloudeteer/playground-stackit/pull/9) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (2 days ago)
-- [add option to disable collectors](https://github.com/cloudeteer/m365-exporter/pull/40) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 days ago)
+- [feat: remove expired secret](https://github.com/cloudeteer/playground-stackit/pull/9) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (3 days ago)
+- [add option to disable collectors](https://github.com/cloudeteer/m365-exporter/pull/40) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 days ago)
 - [revert renovate.json, need to test this in another repo first](https://github.com/cloudeteer/helm-charts/pull/14) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/12) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/10) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
