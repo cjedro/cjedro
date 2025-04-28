@@ -3,18 +3,18 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (today)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (4 days ago)
 - [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (4 days ago)
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (1 month ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (2 months ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.0), today) - cloudeteer&#39;s helm chart repositories
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.1), 1 day ago) - Prometheus community Helm charts
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), 4 days ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.1), 5 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.1.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.1.0), 1 month ago) - cloudeteer&#39;s helm chart repositories
 
 #### 🔨 My recent Pull Requests
 
