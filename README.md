@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (2 weeks ago)
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (today)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 weeks ago)
 - [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (2 weeks ago)
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine (1 month ago)
@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingmesh-exporter-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingmesh-exporter-0.4.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.40.1), today) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.2), 1 week ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.55.3](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.55.3), 1 week ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.0), 2 weeks ago) - cloudeteer&#39;s helm chart repositories
@@ -20,6 +20,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix renovate config, bump appVersion and version in Chart.yaml](https://github.com/cloudeteer/helm-charts/pull/18) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (today)
+- [fix renovate config, bump appVersion and version in Chart.yaml](https://github.com/cloudeteer/helm-charts/pull/16) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (today)
 - [feat: remove expired secret](https://github.com/cloudeteer/playground-stackit/pull/9) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (2 weeks ago)
 - [add option to disable collectors](https://github.com/cloudeteer/m365-exporter/pull/40) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 weeks ago)
 - [revert renovate.json, need to test this in another repo first](https://github.com/cloudeteer/helm-charts/pull/14) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 month ago)
@@ -28,8 +30,6 @@
 - [feat: add sharepoint storage quota metrics collector](https://github.com/cloudeteer/m365-exporter/pull/27) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [docs: add usage for management group with azResourceGraphQuery](https://github.com/webdevops/helm-azure-tpl/pull/78) on [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) (1 month ago)
 - [add information to helm chart](https://github.com/cloudeteer/helm-charts/pull/6) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 months ago)
-- [bump chart version so releaser adds artifacthub configuration to gh-pages](https://github.com/cloudeteer/helm-charts/pull/5) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 months ago)
-- [add artifact hub verification](https://github.com/cloudeteer/helm-charts/pull/4) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 months ago)
 
 #### ⭐ Recent Stars
 
