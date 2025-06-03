@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-10.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-10.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-73.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-73.0.0), today) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.5](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.5), 1 week ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.56.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.56.0), 1 week ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.3.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.3.0), 2 weeks ago) - cloudeteer&#39;s helm chart repositories
