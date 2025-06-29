@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.23.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-consul-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-consul-exporter-1.1.0), today) - Prometheus community Helm charts
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.4.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.4.0), 6 days ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.4.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.4.1), 6 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.56.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.56.0), 1 month ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
