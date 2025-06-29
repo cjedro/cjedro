@@ -12,9 +12,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-to-sd-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.5.0), today) - Prometheus community Helm charts
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.4.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.4.0), 5 days ago) - Microsoft 365 prometheus exporter
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.4.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.4.1), 5 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-to-sd-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.5.0), 1 day ago) - Prometheus community Helm charts
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.4.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.4.0), 6 days ago) - Microsoft 365 prometheus exporter
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.4.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.4.1), 6 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.56.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.56.0), 1 month ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.3.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.3.0), 1 month ago) - cloudeteer&#39;s helm chart repositories
 
@@ -34,9 +34,9 @@
 #### ⭐ Recent Stars
 
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (2 weeks ago)
-- [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes (3 weeks ago)
+- [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes (4 weeks ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 month ago)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 months ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (3 months ago)
 - [webdevops/azure-resourcegraph-exporter](https://github.com/webdevops/azure-resourcegraph-exporter) - Prometheus exporter for Azure ResourceGraph queries (3 months ago)
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine (3 months ago)
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) - Prometheus exporter for Azure LogAnalytics (Kusto queries) (3 months ago)
