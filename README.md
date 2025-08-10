@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (5 days ago)
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (6 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 weeks ago)
 - [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (2 months ago)
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine (4 months ago)
@@ -12,8 +12,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.15.0), today) - Prometheus community Helm charts
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 5 days ago) - cloudeteer&#39;s helm chart repositories
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.15.0), 1 day ago) - Prometheus community Helm charts
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 6 days ago) - cloudeteer&#39;s helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.5.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.5.0), 1 week ago) - Microsoft 365 prometheus exporter
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.57.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.57.0), 1 month ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.5.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.5.0), 1 month ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
@@ -22,8 +22,8 @@
 
 - [feat: add openziti playground](https://github.com/cloudeteer/playground-stackit/pull/10) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (2 months ago)
 - [fix: restart when configmap is changed](https://github.com/cloudeteer/helm-charts/pull/19) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 months ago)
-- [fix renovate config, bump appVersion and version in Chart.yaml](https://github.com/cloudeteer/helm-charts/pull/18) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 months ago)
-- [fix renovate config, bump appVersion and version in Chart.yaml](https://github.com/cloudeteer/helm-charts/pull/16) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (2 months ago)
+- [fix renovate config, bump appVersion and version in Chart.yaml](https://github.com/cloudeteer/helm-charts/pull/18) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (3 months ago)
+- [fix renovate config, bump appVersion and version in Chart.yaml](https://github.com/cloudeteer/helm-charts/pull/16) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (3 months ago)
 - [feat: remove expired secret](https://github.com/cloudeteer/playground-stackit/pull/9) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (3 months ago)
 - [add option to disable collectors](https://github.com/cloudeteer/m365-exporter/pull/40) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 months ago)
 - [revert renovate.json, need to test this in another repo first](https://github.com/cloudeteer/helm-charts/pull/14) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 months ago)
