@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(intune): add Apple VPP / DEP token metrics scraping and corresponding tests](https://github.com/cloudeteer/m365-exporter/pull/61) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [feat: add openziti playground](https://github.com/cloudeteer/playground-stackit/pull/10) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (2 months ago)
 - [fix: restart when configmap is changed](https://github.com/cloudeteer/helm-charts/pull/19) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (3 months ago)
 - [fix renovate config, bump appVersion and version in Chart.yaml](https://github.com/cloudeteer/helm-charts/pull/18) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (3 months ago)
@@ -29,7 +30,6 @@
 - [revert renovate.json, need to test this in another repo first](https://github.com/cloudeteer/helm-charts/pull/14) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 months ago)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/12) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 months ago)
 - [bump helm version if app version gets updated](https://github.com/cloudeteer/helm-charts/pull/10) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 months ago)
-- [feat: add sharepoint storage quota metrics collector](https://github.com/cloudeteer/m365-exporter/pull/27) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 months ago)
 
 #### ⭐ Recent Stars
 
