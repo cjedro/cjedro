@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.36.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.36.0), 1 day ago) - Prometheus community Helm charts
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.7.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.7.0), 1 week ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.0), 2 weeks ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 1 month ago) - cloudeteer&#39;s helm chart repositories
@@ -20,7 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add new Jira search endpoint with new api_type option and auto detect](https://github.com/prometheus/alertmanager/pull/4542) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 day ago)
+- [Add new Jira search endpoint with new api_type option and auto detect](https://github.com/prometheus/alertmanager/pull/4542) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (2 days ago)
 - [feat(intune): add Apple VPP / DEP token metrics scraping and corresponding tests](https://github.com/cloudeteer/m365-exporter/pull/61) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 weeks ago)
 - [feat: add openziti playground](https://github.com/cloudeteer/playground-stackit/pull/10) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (3 months ago)
 - [fix: restart when configmap is changed](https://github.com/cloudeteer/helm-charts/pull/19) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (3 months ago)
@@ -33,9 +33,9 @@
 
 #### ⭐ Recent Stars
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 day ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (2 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 month ago)
-- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (2 months ago)
+- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (3 months ago)
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes (3 months ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 months ago)
 - [webdevops/azure-resourcegraph-exporter](https://github.com/webdevops/azure-resourcegraph-exporter) - Prometheus exporter for Azure ResourceGraph queries (5 months ago)
