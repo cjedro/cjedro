@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 week ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 weeks ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (1 month ago)
 - [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (3 months ago)
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine (5 months ago)
@@ -12,16 +12,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.36.0), 1 day ago) - Prometheus community Helm charts
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.7.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.7.0), 1 week ago) - Microsoft 365 prometheus exporter
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.36.0), 2 days ago) - Prometheus community Helm charts
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.7.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.7.0), 2 weeks ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.0), 2 weeks ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 1 month ago) - cloudeteer&#39;s helm chart repositories
-- [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.57.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.57.0), 1 month ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
+- [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.57.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.57.0), 2 months ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
 
 #### 🔨 My recent Pull Requests
 
-- [feat: kubernetes_cluster readd vnet integration feature, add validation and fix runCommand failed test](https://github.com/hashicorp/terraform-provider-azurerm/pull/30576) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
-- [Add new Jira search endpoint with new api_type option and auto detect](https://github.com/prometheus/alertmanager/pull/4542) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (2 days ago)
+- [feat: kubernetes_cluster readd vnet integration feature, add validation and fix runCommand failed test](https://github.com/hashicorp/terraform-provider-azurerm/pull/30576) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 day ago)
+- [Add new Jira search endpoint with new api_type option and auto detect](https://github.com/prometheus/alertmanager/pull/4542) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (3 days ago)
 - [feat(intune): add Apple VPP / DEP token metrics scraping and corresponding tests](https://github.com/cloudeteer/m365-exporter/pull/61) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 weeks ago)
 - [feat: add openziti playground](https://github.com/cloudeteer/playground-stackit/pull/10) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (3 months ago)
 - [fix: restart when configmap is changed](https://github.com/cloudeteer/helm-charts/pull/19) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (3 months ago)
@@ -33,7 +33,7 @@
 
 #### ⭐ Recent Stars
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (2 days ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (3 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 month ago)
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (3 months ago)
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes (3 months ago)
