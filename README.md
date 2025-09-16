@@ -12,9 +12,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.17.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.17.0), 1 day ago) - Prometheus community Helm charts
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.7.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.7.0), 3 weeks ago) - Microsoft 365 prometheus exporter
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.0), 3 weeks ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.0), 4 weeks ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 1 month ago) - cloudeteer&#39;s helm chart repositories
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.57.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.57.0), 2 months ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
 
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (4 days ago)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (5 days ago)
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (5 days ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (6 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 month ago)
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (3 months ago)
