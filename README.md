@@ -22,6 +22,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix resolution date (ticket always reopens)](https://github.com/cloudeteer/jiralert/pull/4) on [cloudeteer/jiralert](https://github.com/cloudeteer/jiralert) (today)
+- [adjust docker build and co.](https://github.com/prometheus-community/jiralert/pull/207) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (today)
 - [feat: add power platform metrics](https://github.com/cloudeteer/m365-exporter/pull/65) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 week ago)
 - [fix: use appleId for each apple business manager metric](https://github.com/cloudeteer/m365-exporter/pull/64) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 week ago)
 - [azurerm_kubernetes_cluster: readd vnet integration feature, add validation and fix runCommand failed test](https://github.com/hashicorp/terraform-provider-azurerm/pull/30576) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 weeks ago)
@@ -30,8 +32,6 @@
 - [feat: add openziti playground](https://github.com/cloudeteer/playground-stackit/pull/10) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (3 months ago)
 - [fix: restart when configmap is changed](https://github.com/cloudeteer/helm-charts/pull/19) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 months ago)
 - [fix renovate config, bump appVersion and version in Chart.yaml](https://github.com/cloudeteer/helm-charts/pull/18) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 months ago)
-- [fix renovate config, bump appVersion and version in Chart.yaml](https://github.com/cloudeteer/helm-charts/pull/16) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 months ago)
-- [feat: remove expired secret](https://github.com/cloudeteer/playground-stackit/pull/9) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (5 months ago)
 
 #### ⭐ Recent Stars
 
