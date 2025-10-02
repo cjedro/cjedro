@@ -35,6 +35,7 @@
 
 #### ⭐ Recent Stars
 
+- [hpilo-exporter/hpilo-exporter](https://github.com/hpilo-exporter/hpilo-exporter) - HP ILO exporter for prometheus (today)
 - [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (2 weeks ago)
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (3 weeks ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 weeks ago)
@@ -44,7 +45,6 @@
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes (4 months ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (4 months ago)
 - [webdevops/azure-resourcegraph-exporter](https://github.com/webdevops/azure-resourcegraph-exporter) - Prometheus exporter for Azure ResourceGraph queries (6 months ago)
-- [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine (6 months ago)
 
 #### 📈 Stats
 
