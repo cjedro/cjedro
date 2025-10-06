@@ -22,6 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: race condition on intune collector tests](https://github.com/cloudeteer/m365-exporter/pull/81) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [fix: application collector race condition in tests](https://github.com/cloudeteer/m365-exporter/pull/70) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [fix: lint and ci job](https://github.com/cloudeteer/m365-exporter/pull/69) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [fix resolution date (ticket always reopens)](https://github.com/cloudeteer/jiralert/pull/4) on [cloudeteer/jiralert](https://github.com/cloudeteer/jiralert) (1 week ago)
@@ -31,7 +32,6 @@
 - [azurerm_kubernetes_cluster: readd vnet integration feature, add validation and fix runCommand failed test](https://github.com/hashicorp/terraform-provider-azurerm/pull/30576) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (4 weeks ago)
 - [Add new Jira search endpoint with new api_type option and auto detect](https://github.com/prometheus/alertmanager/pull/4542) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 month ago)
 - [feat(intune): add Apple VPP / DEP token metrics scraping and corresponding tests](https://github.com/cloudeteer/m365-exporter/pull/61) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
-- [feat: add openziti playground](https://github.com/cloudeteer/playground-stackit/pull/10) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (4 months ago)
 
 #### ⭐ Recent Stars
 
