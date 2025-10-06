@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.13.0), 3 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-1.0.0), today) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 2 weeks ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.7.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.7.0), 1 month ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 2 months ago) - cloudeteer&#39;s helm chart repositories
@@ -22,6 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: application collector race condition in tests](https://github.com/cloudeteer/m365-exporter/pull/70) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [fix: lint and ci job](https://github.com/cloudeteer/m365-exporter/pull/69) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [fix resolution date (ticket always reopens)](https://github.com/cloudeteer/jiralert/pull/4) on [cloudeteer/jiralert](https://github.com/cloudeteer/jiralert) (1 week ago)
 - [adjust docker build and co.](https://github.com/prometheus-community/jiralert/pull/207) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (1 week ago)
@@ -31,7 +32,6 @@
 - [Add new Jira search endpoint with new api_type option and auto detect](https://github.com/prometheus/alertmanager/pull/4542) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 month ago)
 - [feat(intune): add Apple VPP / DEP token metrics scraping and corresponding tests](https://github.com/cloudeteer/m365-exporter/pull/61) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [feat: add openziti playground](https://github.com/cloudeteer/playground-stackit/pull/10) on [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) (4 months ago)
-- [fix: restart when configmap is changed](https://github.com/cloudeteer/helm-charts/pull/19) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (4 months ago)
 
 #### ⭐ Recent Stars
 
