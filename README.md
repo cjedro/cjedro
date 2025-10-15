@@ -35,6 +35,7 @@
 
 #### ⭐ Recent Stars
 
+- [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (today)
 - [hpilo-exporter/hpilo-exporter](https://github.com/hpilo-exporter/hpilo-exporter) - HP ILO exporter for prometheus (1 week ago)
 - [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (4 weeks ago)
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (1 month ago)
@@ -44,7 +45,6 @@
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure. (4 months ago)
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes (4 months ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (5 months ago)
-- [webdevops/azure-resourcegraph-exporter](https://github.com/webdevops/azure-resourcegraph-exporter) - Prometheus exporter for Azure ResourceGraph queries (6 months ago)
 
 #### 📈 Stats
 
