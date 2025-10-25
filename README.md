@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.49.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.49.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.49.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.49.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.29.0-rc.1](https://github.com/prometheus/alertmanager/releases/tag/v0.29.0-rc.1), 1 week ago) - Prometheus Alertmanager
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.8.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.8.0), 2 weeks ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 1 month ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
@@ -25,8 +25,8 @@
 - [fix: race condition on intune collector tests](https://github.com/cloudeteer/m365-exporter/pull/81) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 weeks ago)
 - [fix: application collector race condition in tests](https://github.com/cloudeteer/m365-exporter/pull/70) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 weeks ago)
 - [fix: lint and ci job](https://github.com/cloudeteer/m365-exporter/pull/69) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 weeks ago)
-- [fix resolution date (ticket always reopens)](https://github.com/cloudeteer/jiralert/pull/4) on [cloudeteer/jiralert](https://github.com/cloudeteer/jiralert) (4 weeks ago)
-- [adjust docker build and co.](https://github.com/prometheus-community/jiralert/pull/207) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (4 weeks ago)
+- [fix resolution date (ticket always reopens)](https://github.com/cloudeteer/jiralert/pull/4) on [cloudeteer/jiralert](https://github.com/cloudeteer/jiralert) (1 month ago)
+- [adjust docker build and co.](https://github.com/prometheus-community/jiralert/pull/207) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (1 month ago)
 - [feat: add power platform metrics](https://github.com/cloudeteer/m365-exporter/pull/65) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [fix: use appleId for each apple business manager metric](https://github.com/cloudeteer/m365-exporter/pull/64) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [azurerm_kubernetes_cluster: readd vnet integration feature, add validation and fix runCommand failed test](https://github.com/hashicorp/terraform-provider-azurerm/pull/30576) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 month ago)
