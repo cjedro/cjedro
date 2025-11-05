@@ -36,7 +36,7 @@
 
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (3 weeks ago)
 - [hpilo-exporter/hpilo-exporter](https://github.com/hpilo-exporter/hpilo-exporter) - HP ILO exporter for prometheus (1 month ago)
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (1 month ago)
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #differential #supply #chain #attack #detection (1 month ago)
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (1 month ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 month ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (2 months ago)
