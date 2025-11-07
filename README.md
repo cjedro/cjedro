@@ -13,11 +13,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.29.0](https://github.com/prometheus/alertmanager/releases/tag/v0.29.0), 2 days ago) - Prometheus Alertmanager
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.29.0](https://github.com/prometheus/alertmanager/releases/tag/v0.29.0), 3 days ago) - Prometheus Alertmanager
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.8.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.8.0), 1 month ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 1 month ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 3 months ago) - cloudeteer&#39;s helm chart repositories
-- [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.57.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.57.0), 3 months ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
+- [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.57.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.57.0), 4 months ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
 
 #### 🔨 My recent Pull Requests
 
