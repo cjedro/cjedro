@@ -20,23 +20,23 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add azure advisor recommendations](https://github.com/webdevops/azure-resourcemanager-exporter/pull/159) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (3 days ago)
+- [add azure advisor recommendations](https://github.com/webdevops/azure-resourcemanager-exporter/pull/159) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (4 days ago)
 - [fix: race condition on intune collector tests](https://github.com/cloudeteer/m365-exporter/pull/81) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [fix: application collector race condition in tests](https://github.com/cloudeteer/m365-exporter/pull/70) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [fix: lint and ci job](https://github.com/cloudeteer/m365-exporter/pull/69) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [fix resolution date (ticket always reopens)](https://github.com/cloudeteer/jiralert/pull/4) on [cloudeteer/jiralert](https://github.com/cloudeteer/jiralert) (1 month ago)
 - [adjust docker build and co.](https://github.com/prometheus-community/jiralert/pull/207) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (1 month ago)
-- [feat: add power platform metrics](https://github.com/cloudeteer/m365-exporter/pull/65) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
-- [fix: use appleId for each apple business manager metric](https://github.com/cloudeteer/m365-exporter/pull/64) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
+- [feat: add power platform metrics](https://github.com/cloudeteer/m365-exporter/pull/65) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 months ago)
+- [fix: use appleId for each apple business manager metric](https://github.com/cloudeteer/m365-exporter/pull/64) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 months ago)
 - [azurerm_kubernetes_cluster: readd vnet integration feature, add validation and fix runCommand failed test](https://github.com/hashicorp/terraform-provider-azurerm/pull/30576) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 months ago)
 - [Add new Jira search endpoint with new api_type option and auto detect](https://github.com/prometheus/alertmanager/pull/4542) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (2 days ago)
+- [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (3 days ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (1 month ago)
 - [hpilo-exporter/hpilo-exporter](https://github.com/hpilo-exporter/hpilo-exporter) - HP ILO exporter for prometheus (1 month ago)
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (1 month ago)
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (2 months ago)
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (2 months ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 months ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (2 months ago)
