@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.29.0](https://github.com/prometheus/alertmanager/releases/tag/v0.29.0), 2 weeks ago) - Prometheus Alertmanager
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.29.0](https://github.com/prometheus/alertmanager/releases/tag/v0.29.0), 3 weeks ago) - Prometheus Alertmanager
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.8.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.8.0), 1 month ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 2 months ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 3 months ago) - cloudeteer&#39;s helm chart repositories
@@ -20,7 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add azure advisor recommendations](https://github.com/webdevops/azure-resourcemanager-exporter/pull/159) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (1 week ago)
+- [add azure advisor recommendations](https://github.com/webdevops/azure-resourcemanager-exporter/pull/159) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (2 weeks ago)
 - [fix: race condition on intune collector tests](https://github.com/cloudeteer/m365-exporter/pull/81) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [fix: application collector race condition in tests](https://github.com/cloudeteer/m365-exporter/pull/70) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [fix: lint and ci job](https://github.com/cloudeteer/m365-exporter/pull/69) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
