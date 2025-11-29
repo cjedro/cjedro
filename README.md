@@ -6,13 +6,13 @@
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 month ago)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (2 months ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (3 months ago)
-- [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (5 months ago)
+- [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (6 months ago)
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine (8 months ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.62.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.62.0), 1 day ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
+- [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.62.0](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.62.0), 2 days ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.29.0](https://github.com/prometheus/alertmanager/releases/tag/v0.29.0), 3 weeks ago) - Prometheus Alertmanager
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.8.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.8.0), 1 month ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 2 months ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
