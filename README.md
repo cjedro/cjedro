@@ -34,7 +34,7 @@
 #### ⭐ Recent Stars
 
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database for Industrial IoT and Analytics. 9.47M records/sec. Racing telemetry, smart cities, mining sensors, medical devices. DuckDB SQL &#43; Parquet &#43; Arrow. AGPL-3.0 (6 days ago)
-- [gma1k/podtrace](https://github.com/gma1k/podtrace) - eBPF-based diagnostic tool for Kubernetes applications 🐝 (1 week ago)
+- [gma1k/Podtrace](https://github.com/gma1k/Podtrace) - eBPF-based diagnostic tool for Kubernetes applications 🐝 (1 week ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (4 weeks ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (1 month ago)
 - [hpilo-exporter/hpilo-exporter](https://github.com/hpilo-exporter/hpilo-exporter) - HP ILO exporter for prometheus (2 months ago)
