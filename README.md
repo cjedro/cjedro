@@ -3,18 +3,18 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (today)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (1 day ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 months ago)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (3 months ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (4 months ago)
 - [cloudeteer/playground-stackit](https://github.com/cloudeteer/playground-stackit) - A playground repository for experimenting with StackIT. This repository serves as a testbed for configurations, deployments, and integrations related to StackIT services. (6 months ago)
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine (9 months ago)
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (9 months ago)
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([25.12.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/25.12.0), today) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.30.0](https://github.com/prometheus/alertmanager/releases/tag/v0.30.0), 6 days ago) - Prometheus Alertmanager
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([25.12.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/25.12.1), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.30.0](https://github.com/prometheus/alertmanager/releases/tag/v0.30.0), 1 week ago) - Prometheus Alertmanager
 - [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.63.9](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.63.9), 2 weeks ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.8.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.8.0), 2 months ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 3 months ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
