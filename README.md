@@ -35,6 +35,7 @@
 
 #### ⭐ Recent Stars
 
+- [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Attack Graph Visualizer and Explorer (Active Directory) ...Who&#39;s *really* Domain Admin? (today)
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database for Industrial IoT and Analytics. 9.47M records/sec. Racing telemetry, smart cities, mining sensors, medical devices. DuckDB SQL &#43; Parquet &#43; Arrow. AGPL-3.0 (2 weeks ago)
 - [gma1k/Podtrace](https://github.com/gma1k/Podtrace) - eBPF-driven diagnostic tool for Kubernetes applications 🐝 (2 weeks ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (1 month ago)
@@ -44,7 +45,6 @@
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (3 months ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 months ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (3 months ago)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (5 months ago)
 
 #### 📈 Stats
 
