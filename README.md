@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (2 days ago)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (3 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 months ago)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (3 months ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (4 months ago)
@@ -13,9 +13,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([25.12.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/25.12.1), 2 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([25.12.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/25.12.1), 3 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.30.0](https://github.com/prometheus/alertmanager/releases/tag/v0.30.0), 1 week ago) - Prometheus Alertmanager
-- [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.63.9](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.63.9), 2 weeks ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
+- [webdevops/helm-azure-tpl](https://github.com/webdevops/helm-azure-tpl) ([0.63.9](https://github.com/webdevops/helm-azure-tpl/releases/tag/0.63.9), 3 weeks ago) - Helm plugin and standalone tool for Azure - injecting Azure information and KeyVault secrets into files using go template engine
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.8.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.8.0), 2 months ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 3 months ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 4 months ago) - cloudeteer&#39;s helm chart repositories
@@ -26,8 +26,8 @@
 - [fix: race condition on intune collector tests](https://github.com/cloudeteer/m365-exporter/pull/81) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 months ago)
 - [fix: application collector race condition in tests](https://github.com/cloudeteer/m365-exporter/pull/70) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 months ago)
 - [fix: lint and ci job](https://github.com/cloudeteer/m365-exporter/pull/69) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 months ago)
-- [fix resolution date (ticket always reopens)](https://github.com/cloudeteer/jiralert/pull/4) on [cloudeteer/jiralert](https://github.com/cloudeteer/jiralert) (2 months ago)
-- [adjust docker build and co.](https://github.com/prometheus-community/jiralert/pull/207) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (2 months ago)
+- [fix resolution date (ticket always reopens)](https://github.com/cloudeteer/jiralert/pull/4) on [cloudeteer/jiralert](https://github.com/cloudeteer/jiralert) (3 months ago)
+- [adjust docker build and co.](https://github.com/prometheus-community/jiralert/pull/207) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (3 months ago)
 - [feat: add power platform metrics](https://github.com/cloudeteer/m365-exporter/pull/65) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 months ago)
 - [fix: use appleId for each apple business manager metric](https://github.com/cloudeteer/m365-exporter/pull/64) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 months ago)
 - [azurerm_kubernetes_cluster: readd vnet integration feature, add validation and fix runCommand failed test](https://github.com/hashicorp/terraform-provider-azurerm/pull/30576) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (3 months ago)
@@ -35,9 +35,9 @@
 
 #### ⭐ Recent Stars
 
-- [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Attack Graph Visualizer and Explorer (Active Directory) ...Who&#39;s *really* Domain Admin? (1 day ago)
+- [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Attack Graph Visualizer and Explorer (Active Directory) ...Who&#39;s *really* Domain Admin? (2 days ago)
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database for Industrial IoT and Analytics. 9.47M records/sec. Racing telemetry, smart cities, mining sensors, medical devices. DuckDB SQL &#43; Parquet &#43; Arrow. AGPL-3.0 (2 weeks ago)
-- [gma1k/Podtrace](https://github.com/gma1k/Podtrace) - eBPF-driven diagnostic tool for Kubernetes applications 🐝 (2 weeks ago)
+- [gma1k/Podtrace](https://github.com/gma1k/Podtrace) - eBPF-driven diagnostic tool for Kubernetes applications 🐝 (3 weeks ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (1 month ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (2 months ago)
 - [hpilo-exporter/hpilo-exporter](https://github.com/hpilo-exporter/hpilo-exporter) - HP ILO exporter for prometheus (2 months ago)
