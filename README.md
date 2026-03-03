@@ -38,7 +38,7 @@
 - [NivRave/from-go-build-to-go-run](https://github.com/NivRave/from-go-build-to-go-run) - A golang series covering different topics with examples for GoLang advanced users (1 month ago)
 - [WASP-SYSTEMS/wespenstock](https://github.com/WASP-SYSTEMS/wespenstock) - Wespenstock CRS (1 month ago)
 - [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Attack Graph Visualizer and Explorer (Active Directory) ...Who&#39;s *really* Domain Admin? (2 months ago)
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database for Aerospace, Defense, and Industrial IoT. 18.6M records/sec. Satellite tracking, launch telemetry, ground stations, manufacturing, energy. DuckDB SQL &#43; Parquet &#43; Arrow. AGPL-3.0 (2 months ago)
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance analytical database. DuckDB SQL engine &#43; Parquet storage &#43; Arrow format. 18M&#43; records/sec ingestion. 6M&#43; rows/sec queries. Use for analytics, observability, AI, IoT, logs. Single Go binary. S3/Azure native. No vendor lock-in. AGPL-3.0 (2 months ago)
 - [gma1k/podtrace](https://github.com/gma1k/podtrace) - eBPF-driven diagnostic tool for Kubernetes applications 🐝 (3 months ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (3 months ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (4 months ago)
