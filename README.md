@@ -33,6 +33,7 @@
 
 #### ⭐ Recent Stars
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (today)
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (1 week ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 weeks ago)
 - [NivRave/from-go-build-to-go-run](https://github.com/NivRave/from-go-build-to-go-run) - A golang series covering different topics with examples for GoLang advanced users (1 month ago)
@@ -42,7 +43,6 @@
 - [gma1k/podtrace](https://github.com/gma1k/podtrace) - eBPF-driven diagnostic tool for Kubernetes applications 🐝 (3 months ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (3 months ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (4 months ago)
-- [hpilo-exporter/hpilo-exporter](https://github.com/hpilo-exporter/hpilo-exporter) - HP ILO exporter for prometheus (5 months ago)
 
 #### 📈 Stats
 
