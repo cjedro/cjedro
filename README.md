@@ -20,7 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add reservation state and expiry time metrics](https://github.com/webdevops/azure-resourcemanager-exporter/pull/164) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (4 weeks ago)
+- [feat: add reservation state and expiry time metrics](https://github.com/webdevops/azure-resourcemanager-exporter/pull/164) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (1 month ago)
 - [goreleaser: fix broken command after update](https://github.com/cloudeteer/m365-exporter/pull/87) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [add azure advisor recommendations](https://github.com/webdevops/azure-resourcemanager-exporter/pull/159) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (4 months ago)
 - [fix: race condition on intune collector tests](https://github.com/cloudeteer/m365-exporter/pull/81) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (5 months ago)
@@ -33,16 +33,16 @@
 
 #### ⭐ Recent Stars
 
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (3 days ago)
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (4 days ago)
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (2 weeks ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 weeks ago)
-- [NivRave/from-go-build-to-go-run](https://github.com/NivRave/from-go-build-to-go-run) - A golang series covering different topics with examples for GoLang advanced users (1 month ago)
+- [NivRave/from-go-build-to-go-run](https://github.com/NivRave/from-go-build-to-go-run) - A golang series covering different topics with examples for GoLang advanced users (2 months ago)
 - [WASP-SYSTEMS/wespenstock](https://github.com/WASP-SYSTEMS/wespenstock) - Wespenstock CRS (2 months ago)
 - [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Attack Graph Visualizer and Explorer (Active Directory) ...Who&#39;s *really* Domain Admin? (2 months ago)
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance analytical database. DuckDB SQL engine &#43; Parquet storage &#43; Arrow format. 18M&#43; records/sec ingestion. 6M&#43; rows/sec queries. Use for analytics, observability, AI, IoT, logs. Single Go binary. S3/Azure native. No vendor lock-in. AGPL-3.0 (3 months ago)
 - [gma1k/podtrace](https://github.com/gma1k/podtrace) - eBPF-driven diagnostic tool for Kubernetes applications 🐝 (3 months ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (4 months ago)
-- [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (4 months ago)
+- [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (5 months ago)
 
 #### 📈 Stats
 
