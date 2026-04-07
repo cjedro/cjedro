@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [freddy-schuetz/n8n-claw](https://github.com/freddy-schuetz/n8n-claw) - OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script (today)
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (3 weeks ago)
+- [freddy-schuetz/n8n-claw](https://github.com/freddy-schuetz/n8n-claw) - OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script (1 day ago)
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (4 weeks ago)
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (1 month ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 month ago)
 - [NivRave/from-go-build-to-go-run](https://github.com/NivRave/from-go-build-to-go-run) - A golang series covering different topics with examples for GoLang advanced users (2 months ago)
