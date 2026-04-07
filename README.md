@@ -18,6 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate to runner token instead of PAT, make credentials persistent](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/60) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (today)
 - [feat: add reservation state and expiry time metrics](https://github.com/webdevops/azure-resourcemanager-exporter/pull/164) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (1 month ago)
 - [goreleaser: fix broken command after update](https://github.com/cloudeteer/m365-exporter/pull/87) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 months ago)
 - [add azure advisor recommendations](https://github.com/webdevops/azure-resourcemanager-exporter/pull/159) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (4 months ago)
@@ -27,7 +28,6 @@
 - [fix resolution date (ticket always reopens)](https://github.com/cloudeteer/jiralert/pull/4) on [cloudeteer/jiralert](https://github.com/cloudeteer/jiralert) (6 months ago)
 - [adjust docker build and co.](https://github.com/prometheus-community/jiralert/pull/207) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (6 months ago)
 - [feat: add power platform metrics](https://github.com/cloudeteer/m365-exporter/pull/65) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (6 months ago)
-- [fix: use appleId for each apple business manager metric](https://github.com/cloudeteer/m365-exporter/pull/64) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (6 months ago)
 
 #### ⭐ Recent Stars
 
