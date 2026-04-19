@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (4 days ago)
+- [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (5 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 months ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (2 months ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (3 months ago)
@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.12.2](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.12.2), 2 days ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
+- [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.12.2](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.12.2), 3 days ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.32.0](https://github.com/prometheus/alertmanager/releases/tag/v0.32.0), 1 week ago) - Prometheus Alertmanager
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.1), 2 months ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.6.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.6.0), 2 months ago) - cloudeteer&#39;s helm chart repositories
@@ -20,7 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: send client id to command to avoid using system assigned managed identity](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/61) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (4 days ago)
+- [fix: send client id to command to avoid using system assigned managed identity](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/61) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (5 days ago)
 - [Migrate to runner token instead of PAT, make credentials persistent](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/60) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (1 week ago)
 - [feat: add reservation state and expiry time metrics](https://github.com/webdevops/azure-resourcemanager-exporter/pull/164) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (2 months ago)
 - [goreleaser: fix broken command after update](https://github.com/cloudeteer/m365-exporter/pull/87) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 months ago)
