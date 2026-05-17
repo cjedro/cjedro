@@ -33,10 +33,10 @@
 
 #### ⭐ Recent Stars
 
-- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (today)
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (2 weeks ago)
+- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (1 day ago)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (3 weeks ago)
 - [cloudeteer/cdt-ops-stack](https://github.com/cloudeteer/cdt-ops-stack) - All around our OPS.STACK architecture and cloud-agnostic deployments (3 weeks ago)
-- [whtssub/kubectl-snapshot](https://github.com/whtssub/kubectl-snapshot) - A kubectl cli tool that takes a point-in-time snapshot of your cluster state and packages it into a diffable bundle for debugging, audits, and incident reviews. (3 weeks ago)
+- [whtssub/kubectl-snapshot](https://github.com/whtssub/kubectl-snapshot) - A kubectl cli tool that takes a point-in-time snapshot of your cluster state and packages it into a diffable bundle for debugging, audits, and incident reviews. (4 weeks ago)
 - [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25&#43; emulated services for testing, CI and local dev. (1 month ago)
 - [freddy-schuetz/n8n-claw](https://github.com/freddy-schuetz/n8n-claw) - OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script (1 month ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (2 months ago)
