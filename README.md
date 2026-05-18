@@ -20,7 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: problem where the credentials could not be found after scaling because different host names](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/64) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (3 weeks ago)
+- [fix: problem where the credentials could not be found after scaling because different host names](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/64) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (4 weeks ago)
 - [fix: send client id to command to avoid using system assigned managed identity](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/61) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (1 month ago)
 - [Migrate to runner token instead of PAT, make credentials persistent](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/60) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (1 month ago)
 - [feat: add reservation state and expiry time metrics](https://github.com/webdevops/azure-resourcemanager-exporter/pull/164) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (3 months ago)
@@ -33,7 +33,7 @@
 
 #### ⭐ Recent Stars
 
-- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (1 day ago)
+- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (2 days ago)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (3 weeks ago)
 - [cloudeteer/cdt-ops-stack](https://github.com/cloudeteer/cdt-ops-stack) - All around our OPS.STACK architecture and cloud-agnostic deployments (3 weeks ago)
 - [whtssub/kubectl-snapshot](https://github.com/whtssub/kubectl-snapshot) - A kubectl cli tool that takes a point-in-time snapshot of your cluster state and packages it into a diffable bundle for debugging, audits, and incident reviews. (4 weeks ago)
