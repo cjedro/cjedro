@@ -33,9 +33,9 @@
 
 #### ⭐ Recent Stars
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) (today)
-- [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (1 day ago)
-- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (4 days ago)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) (1 day ago)
+- [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (2 days ago)
+- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (5 days ago)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (3 weeks ago)
 - [cloudeteer/cdt-ops-stack](https://github.com/cloudeteer/cdt-ops-stack) - All around our OPS.STACK architecture and cloud-agnostic deployments (3 weeks ago)
 - [whtssub/kubectl-snapshot](https://github.com/whtssub/kubectl-snapshot) - A kubectl cli tool that takes a point-in-time snapshot of your cluster state and packages it into a diffable bundle for debugging, audits, and incident reviews. (1 month ago)
