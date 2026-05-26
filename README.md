@@ -33,10 +33,10 @@
 
 #### ⭐ Recent Stars
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) (5 days ago)
-- [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (6 days ago)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) (6 days ago)
+- [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (1 week ago)
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (1 week ago)
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (4 weeks ago)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (1 month ago)
 - [cloudeteer/cdt-ops-stack](https://github.com/cloudeteer/cdt-ops-stack) - All around our OPS.STACK architecture and cloud-agnostic deployments (1 month ago)
 - [whtssub/kubectl-snapshot](https://github.com/whtssub/kubectl-snapshot) - A kubectl cli tool that takes a point-in-time snapshot of your cluster state and packages it into a diffable bundle for debugging, audits, and incident reviews. (1 month ago)
 - [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25&#43; emulated services for testing, CI and local dev. (1 month ago)
