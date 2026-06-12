@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (2 days ago)
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (3 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 month ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (1 month ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (4 months ago)
@@ -12,8 +12,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.11.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.11.0), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.32.2](https://github.com/prometheus/alertmanager/releases/tag/v0.32.2), 6 days ago) - Prometheus Alertmanager
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.11.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.11.0), 2 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.32.2](https://github.com/prometheus/alertmanager/releases/tag/v0.32.2), 1 week ago) - Prometheus Alertmanager
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.12.4](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.12.4), 1 week ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.1), 4 months ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.6.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.6.0), 4 months ago) - cloudeteer&#39;s helm chart repositories
@@ -21,12 +21,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 days ago)
-- [fix: ignore changes of type_handler_version in azurerm_virtual_machine_extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/98) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 days ago)
+- [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 days ago)
+- [fix: ignore changes of type_handler_version in azurerm_virtual_machine_extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/98) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 days ago)
 - [fix: problem where the credentials could not be found after scaling because different host names](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/64) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (1 month ago)
 - [fix: send client id to command to avoid using system assigned managed identity](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/61) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (1 month ago)
 - [Migrate to runner token instead of PAT, make credentials persistent](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/60) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (2 months ago)
-- [feat: add reservation state and expiry time metrics](https://github.com/webdevops/azure-resourcemanager-exporter/pull/164) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (3 months ago)
+- [feat: add reservation state and expiry time metrics](https://github.com/webdevops/azure-resourcemanager-exporter/pull/164) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (4 months ago)
 - [goreleaser: fix broken command after update](https://github.com/cloudeteer/m365-exporter/pull/87) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 months ago)
 - [add azure advisor recommendations](https://github.com/webdevops/azure-resourcemanager-exporter/pull/159) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (7 months ago)
 - [fix: race condition on intune collector tests](https://github.com/cloudeteer/m365-exporter/pull/81) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (8 months ago)
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (1 week ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (2 weeks ago)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) (3 weeks ago)
 - [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (3 weeks ago)
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (3 weeks ago)
