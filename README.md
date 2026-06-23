@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (1 week ago)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 month ago)
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (2 weeks ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 months ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (2 months ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (4 months ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (6 months ago)
@@ -21,8 +21,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (1 week ago)
-- [fix: ignore changes of type_handler_version in azurerm_virtual_machine_extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/98) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (1 week ago)
+- [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 weeks ago)
+- [fix: ignore changes of type_handler_version in azurerm_virtual_machine_extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/98) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 weeks ago)
 - [fix: problem where the credentials could not be found after scaling because different host names](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/64) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (2 months ago)
 - [fix: send client id to command to avoid using system assigned managed identity](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/61) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (2 months ago)
 - [Migrate to runner token instead of PAT, make credentials persistent](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/60) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (2 months ago)
@@ -39,7 +39,7 @@
 - [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (1 month ago)
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (1 month ago)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (1 month ago)
-- [cloudeteer/cdt-ops-stack](https://github.com/cloudeteer/cdt-ops-stack) - All around our OPS.STACK architecture and cloud-agnostic deployments (1 month ago)
+- [cloudeteer/cdt-ops-stack](https://github.com/cloudeteer/cdt-ops-stack) - All around our OPS.STACK architecture and cloud-agnostic deployments (2 months ago)
 - [whtssub/kubectl-snapshot](https://github.com/whtssub/kubectl-snapshot) - A kubectl cli tool that takes a point-in-time snapshot of your cluster state and packages it into a diffable bundle for debugging, audits, and incident reviews. (2 months ago)
 - [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25&#43; emulated services for testing, CI and local dev. (2 months ago)
 - [freddy-schuetz/n8n-claw](https://github.com/freddy-schuetz/n8n-claw) - OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script (2 months ago)
