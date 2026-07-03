@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.33.0](https://github.com/prometheus/alertmanager/releases/tag/v0.33.0), 2 weeks ago) - Prometheus Alertmanager
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.33.0](https://github.com/prometheus/alertmanager/releases/tag/v0.33.0), 3 weeks ago) - Prometheus Alertmanager
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.11.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.11.0), 3 weeks ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.12.4](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.12.4), 1 month ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.1), 5 months ago) - Microsoft 365 prometheus exporter
@@ -29,8 +29,8 @@
 - [feat: add reservation state and expiry time metrics](https://github.com/webdevops/azure-resourcemanager-exporter/pull/164) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (4 months ago)
 - [goreleaser: fix broken command after update](https://github.com/cloudeteer/m365-exporter/pull/87) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (5 months ago)
 - [add azure advisor recommendations](https://github.com/webdevops/azure-resourcemanager-exporter/pull/159) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (7 months ago)
-- [fix: race condition on intune collector tests](https://github.com/cloudeteer/m365-exporter/pull/81) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (8 months ago)
-- [fix: application collector race condition in tests](https://github.com/cloudeteer/m365-exporter/pull/70) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (8 months ago)
+- [fix: race condition on intune collector tests](https://github.com/cloudeteer/m365-exporter/pull/81) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (9 months ago)
+- [fix: application collector race condition in tests](https://github.com/cloudeteer/m365-exporter/pull/70) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (9 months ago)
 
 #### ⭐ Recent Stars
 
