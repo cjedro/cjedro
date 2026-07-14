@@ -3,17 +3,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (3 days ago)
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (4 days ago)
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) - Vibecoded app that takes a picture from your blink camera and saves it locally. (1 week ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 months ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (2 months ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (5 months ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (6 months ago)
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (9 months ago)
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.11.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.11.1), 3 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.11.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.11.1), 4 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) ([v1.1.0](https://github.com/cjedro/blink-snap/releases/tag/v1.1.0), 1 week ago) - Vibecoded app that takes a picture from your blink camera and saves it locally.
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.33.1](https://github.com/prometheus/alertmanager/releases/tag/v0.33.1), 1 week ago) - Prometheus Alertmanager
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.12.4](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.12.4), 1 month ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: set accelerated_networking_enabled to true by default](https://github.com/cloudeteer/terraform-azurerm-vm/pull/103) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 days ago)
+- [fix: set accelerated_networking_enabled to true by default](https://github.com/cloudeteer/terraform-azurerm-vm/pull/103) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (4 days ago)
 - [build for arm](https://github.com/cjedro/blink-snap/pull/5) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 week ago)
 - [add build](https://github.com/cjedro/blink-snap/pull/4) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 week ago)
 - [add timelampse export](https://github.com/cjedro/blink-snap/pull/3) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 week ago)
@@ -36,7 +36,7 @@
 
 #### ⭐ Recent Stars
 
-- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (2 days ago)
+- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (3 days ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (1 month ago)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported) (1 month ago)
 - [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (1 month ago)
