@@ -8,7 +8,7 @@
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 months ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (2 months ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (5 months ago)
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (6 months ago)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (7 months ago)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -31,14 +31,14 @@
 - [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (1 month ago)
 - [fix: ignore changes of type_handler_version in azurerm_virtual_machine_extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/98) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (1 month ago)
 - [add small webserver](https://github.com/cjedro/blink-snap/pull/1) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 month ago)
-- [fix: problem where the credentials could not be found after scaling because different host names](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/64) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (2 months ago)
+- [fix: problem where the credentials could not be found after scaling because different host names](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/64) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (3 months ago)
 - [fix: send client id to command to avoid using system assigned managed identity](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/61) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (3 months ago)
 
 #### ⭐ Recent Stars
 
 - [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (1 week ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (1 month ago)
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported) (1 month ago)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported) (2 months ago)
 - [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (2 months ago)
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (2 months ago)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (2 months ago)
