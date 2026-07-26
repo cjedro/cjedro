@@ -7,7 +7,7 @@
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) - Vibecoded app that takes a picture from your blink camera and saves it locally. (2 weeks ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (3 months ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (3 months ago)
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (5 months ago)
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (6 months ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (7 months ago)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (10 months ago)
 
@@ -18,7 +18,7 @@
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.33.1](https://github.com/prometheus/alertmanager/releases/tag/v0.33.1), 3 weeks ago) - Prometheus Alertmanager
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.12.4](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.12.4), 1 month ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.1), 5 months ago) - Microsoft 365 prometheus exporter
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.6.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.6.0), 5 months ago) - cloudeteer&#39;s helm chart repositories
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.6.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.6.0), 6 months ago) - cloudeteer&#39;s helm chart repositories
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([26.1.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/26.1.0), 6 months ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 
 #### 🔨 My recent Pull Requests
