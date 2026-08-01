@@ -15,7 +15,7 @@
 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.11.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.11.1), 3 weeks ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) ([v1.1.0](https://github.com/cjedro/blink-snap/releases/tag/v1.1.0), 3 weeks ago) - Vibecoded app that takes a picture from your blink camera and saves it locally.
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.33.1](https://github.com/prometheus/alertmanager/releases/tag/v0.33.1), 3 weeks ago) - Prometheus Alertmanager
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.33.1](https://github.com/prometheus/alertmanager/releases/tag/v0.33.1), 4 weeks ago) - Prometheus Alertmanager
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.12.4](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.12.4), 2 months ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.1), 6 months ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.6.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.6.0), 6 months ago) - cloudeteer&#39;s helm chart repositories
@@ -36,7 +36,7 @@
 
 #### ⭐ Recent Stars
 
-- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (2 weeks ago)
+- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (3 weeks ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (2 months ago)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported) (2 months ago)
 - [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (2 months ago)
