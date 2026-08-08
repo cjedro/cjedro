@@ -19,24 +19,24 @@
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.12.4](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.12.4), 2 months ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.1), 6 months ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.6.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.6.0), 6 months ago) - cloudeteer&#39;s helm chart repositories
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([26.1.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/26.1.0), 6 months ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([26.1.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/26.1.0), 7 months ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 
 #### 🔨 My recent Pull Requests
 
-- [Document OAuth v2 refresh fix and JSON logging design.](https://github.com/cjedro/blink-snap/pull/17) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (4 days ago)
+- [Document OAuth v2 refresh fix and JSON logging design.](https://github.com/cjedro/blink-snap/pull/17) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (5 days ago)
 - [fix: set accelerated_networking_enabled to true by default](https://github.com/cloudeteer/terraform-azurerm-vm/pull/103) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (4 weeks ago)
 - [build for arm](https://github.com/cjedro/blink-snap/pull/5) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 month ago)
 - [add build](https://github.com/cjedro/blink-snap/pull/4) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 month ago)
 - [add timelampse export](https://github.com/cjedro/blink-snap/pull/3) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 month ago)
 - [add basic metric for observability](https://github.com/cjedro/blink-snap/pull/2) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 month ago)
-- [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (1 month ago)
-- [fix: ignore changes of type_handler_version in azurerm_virtual_machine_extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/98) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (1 month ago)
+- [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 months ago)
+- [fix: ignore changes of type_handler_version in azurerm_virtual_machine_extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/98) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 months ago)
 - [add small webserver](https://github.com/cjedro/blink-snap/pull/1) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
 - [fix: problem where the credentials could not be found after scaling because different host names](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/64) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (3 weeks ago)
+- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (4 weeks ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (2 months ago)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported) (2 months ago)
 - [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (2 months ago)
