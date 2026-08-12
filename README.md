@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.0), 1 day ago) - cloudeteer&#39;s helm chart repositories
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.2](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.2), 1 day ago) - Microsoft 365 prometheus exporter
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.0), 2 days ago) - cloudeteer&#39;s helm chart repositories
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.2](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.2), 2 days ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.11.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.11.1), 1 month ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) ([v1.1.0](https://github.com/cjedro/blink-snap/releases/tag/v1.1.0), 1 month ago) - Vibecoded app that takes a picture from your blink camera and saves it locally.
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.33.1](https://github.com/prometheus/alertmanager/releases/tag/v0.33.1), 1 month ago) - Prometheus Alertmanager
