@@ -13,11 +13,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.34.0](https://github.com/prometheus/alertmanager/releases/tag/v0.34.0), today) - Prometheus Alertmanager
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) ([v1.2.0](https://github.com/cjedro/blink-snap/releases/tag/v1.2.0), 2 days ago) - Vibecoded app that takes a picture from your blink camera and saves it locally.
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.0), 6 days ago) - cloudeteer&#39;s helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.2](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.2), 6 days ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.11.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.11.1), 1 month ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.33.1](https://github.com/prometheus/alertmanager/releases/tag/v0.33.1), 1 month ago) - Prometheus Alertmanager
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.12.4](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.12.4), 2 months ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([26.1.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/26.1.0), 7 months ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 
