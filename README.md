@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.3-rc1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.3-rc1), today) - Microsoft 365 prometheus exporter
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.3](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.3), today) - Microsoft 365 prometheus exporter
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.34.0](https://github.com/prometheus/alertmanager/releases/tag/v0.34.0), 1 week ago) - Prometheus Alertmanager
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) ([v1.2.0](https://github.com/cjedro/blink-snap/releases/tag/v1.2.0), 1 week ago) - Vibecoded app that takes a picture from your blink camera and saves it locally.
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.0), 2 weeks ago) - cloudeteer&#39;s helm chart repositories
