@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.1), 1 week ago) - cloudeteer&#39;s helm chart repositories
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.3](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.3), 1 week ago) - Microsoft 365 prometheus exporter
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.1), 2 weeks ago) - cloudeteer&#39;s helm chart repositories
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.3](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.3), 2 weeks ago) - Microsoft 365 prometheus exporter
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.34.0](https://github.com/prometheus/alertmanager/releases/tag/v0.34.0), 3 weeks ago) - Prometheus Alertmanager
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) ([v1.2.0](https://github.com/cjedro/blink-snap/releases/tag/v1.2.0), 3 weeks ago) - Vibecoded app that takes a picture from your blink camera and saves it locally.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.11.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.11.1), 2 months ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
@@ -37,7 +37,7 @@
 #### ⭐ Recent Stars
 
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) - Vibecoded app that takes a picture from your blink camera and saves it locally. (3 weeks ago)
-- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (1 month ago)
+- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (2 months ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (3 months ago)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B&#43; free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported &#43; ToS friendly) (3 months ago)
 - [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (3 months ago)
