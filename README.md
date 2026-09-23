@@ -12,8 +12,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.1), 3 weeks ago) - cloudeteer&#39;s helm chart repositories
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.3](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.3), 3 weeks ago) - Microsoft 365 prometheus exporter
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.1), 4 weeks ago) - cloudeteer&#39;s helm chart repositories
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.3](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.3), 4 weeks ago) - Microsoft 365 prometheus exporter
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) ([v1.2.0](https://github.com/cjedro/blink-snap/releases/tag/v1.2.0), 1 month ago) - Vibecoded app that takes a picture from your blink camera and saves it locally.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.11.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.11.1), 2 months ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.12.4](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.12.4), 3 months ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
@@ -40,7 +40,7 @@
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B&#43; free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness &#43; multi-model) like OpenClaw (voice supported &#43; ToS friendly) (4 months ago)
 - [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (4 months ago)
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (4 months ago)
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (4 months ago)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (5 months ago)
 - [cloudeteer/cdt-ops-stack](https://github.com/cloudeteer/cdt-ops-stack) - All around our OPS.STACK architecture and cloud-agnostic deployments (5 months ago)
 - [whtssub/kubectl-snapshot](https://github.com/whtssub/kubectl-snapshot) - A kubectl cli tool that takes a point-in-time snapshot of your cluster state and packages it into a diffable bundle for debugging, audits, and incident reviews. (5 months ago)
 - [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25&#43; emulated services for testing, CI and local dev. (5 months ago)
