@@ -36,7 +36,7 @@
 
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) - Vibecoded app that takes a picture from your blink camera and saves it locally. (1 month ago)
 - [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (2 months ago)
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (3 months ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (4 months ago)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B&#43; free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness &#43; multi-model) like OpenClaw (voice supported &#43; ToS friendly) (4 months ago)
 - [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (4 months ago)
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (4 months ago)
