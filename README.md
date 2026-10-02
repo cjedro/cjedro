@@ -22,7 +22,7 @@
 #### 🔨 My recent Pull Requests
 
 - [add tests](https://github.com/cjedro/blink-snap/pull/18) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 month ago)
-- [Document OAuth v2 refresh fix and JSON logging design.](https://github.com/cjedro/blink-snap/pull/17) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 month ago)
+- [Document OAuth v2 refresh fix and JSON logging design.](https://github.com/cjedro/blink-snap/pull/17) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
 - [fix: set accelerated_networking_enabled to true by default](https://github.com/cloudeteer/terraform-azurerm-vm/pull/103) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 months ago)
 - [build for arm](https://github.com/cjedro/blink-snap/pull/5) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
 - [add build](https://github.com/cjedro/blink-snap/pull/4) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
