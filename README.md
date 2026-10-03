@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.12.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.12.0), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.12.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.12.0), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.1), 1 month ago) - cloudeteer&#39;s helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.3](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.3), 1 month ago) - Microsoft 365 prometheus exporter
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) ([v1.2.0](https://github.com/cjedro/blink-snap/releases/tag/v1.2.0), 1 month ago) - Vibecoded app that takes a picture from your blink camera and saves it locally.
@@ -30,7 +30,7 @@
 - [add basic metric for observability](https://github.com/cjedro/blink-snap/pull/2) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
 - [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 months ago)
 - [fix: ignore changes of type_handler_version in azurerm_virtual_machine_extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/98) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 months ago)
-- [add small webserver](https://github.com/cjedro/blink-snap/pull/1) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
+- [add small webserver](https://github.com/cjedro/blink-snap/pull/1) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (4 months ago)
 
 #### ⭐ Recent Stars
 
