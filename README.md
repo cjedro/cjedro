@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) - Vibecoded app that takes a picture from your blink camera and saves it locally. (1 month ago)
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (2 months ago)
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (3 months ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (5 months ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (5 months ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (8 months ago)
@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.12.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.12.0), 5 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.12.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.12.0), 6 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.1), 1 month ago) - cloudeteer&#39;s helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.3](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.3), 1 month ago) - Microsoft 365 prometheus exporter
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) ([v1.2.0](https://github.com/cjedro/blink-snap/releases/tag/v1.2.0), 1 month ago) - Vibecoded app that takes a picture from your blink camera and saves it locally.
@@ -23,7 +23,7 @@
 
 - [add tests](https://github.com/cjedro/blink-snap/pull/18) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (1 month ago)
 - [Document OAuth v2 refresh fix and JSON logging design.](https://github.com/cjedro/blink-snap/pull/17) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
-- [fix: set accelerated_networking_enabled to true by default](https://github.com/cloudeteer/terraform-azurerm-vm/pull/103) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 months ago)
+- [fix: set accelerated_networking_enabled to true by default](https://github.com/cloudeteer/terraform-azurerm-vm/pull/103) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 months ago)
 - [build for arm](https://github.com/cjedro/blink-snap/pull/5) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
 - [add build](https://github.com/cjedro/blink-snap/pull/4) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
 - [add timelampse export](https://github.com/cjedro/blink-snap/pull/3) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
