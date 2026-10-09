@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.12.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.12.0), 6 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.12.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.12.0), 1 week ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.7.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.7.1), 1 month ago) - cloudeteer&#39;s helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.9.3](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.9.3), 1 month ago) - Microsoft 365 prometheus exporter
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) ([v1.2.0](https://github.com/cjedro/blink-snap/releases/tag/v1.2.0), 1 month ago) - Vibecoded app that takes a picture from your blink camera and saves it locally.
@@ -35,7 +35,7 @@
 #### ⭐ Recent Stars
 
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) - Vibecoded app that takes a picture from your blink camera and saves it locally. (1 month ago)
-- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (2 months ago)
+- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (3 months ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (4 months ago)
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B&#43; free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness &#43; multi-model) like OpenClaw (voice supported &#43; ToS friendly) (4 months ago)
 - [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker) - Open Service Broker API Specification (4 months ago)
