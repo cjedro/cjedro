@@ -21,7 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: allow github owner and repo id as input for new repos](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/67) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (today)
+- [feat: allow github owner and repo id as input for new repos](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/67) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (1 day ago)
 - [add tests](https://github.com/cjedro/blink-snap/pull/18) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
 - [Document OAuth v2 refresh fix and JSON logging design.](https://github.com/cjedro/blink-snap/pull/17) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
 - [fix: set accelerated_networking_enabled to true by default](https://github.com/cloudeteer/terraform-azurerm-vm/pull/103) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 months ago)
