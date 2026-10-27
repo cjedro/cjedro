@@ -21,6 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: create metrics based off advanced hunting queries](https://github.com/cloudeteer/m365-exporter/pull/114) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [feat: allow github owner and repo id as input for new repos](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/67) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (2 weeks ago)
 - [add tests](https://github.com/cjedro/blink-snap/pull/18) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
 - [Document OAuth v2 refresh fix and JSON logging design.](https://github.com/cjedro/blink-snap/pull/17) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
@@ -30,7 +31,6 @@
 - [add timelampse export](https://github.com/cjedro/blink-snap/pull/3) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
 - [add basic metric for observability](https://github.com/cjedro/blink-snap/pull/2) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (4 months ago)
 - [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (4 months ago)
-- [fix: ignore changes of type_handler_version in azurerm_virtual_machine_extensions](https://github.com/cloudeteer/terraform-azurerm-vm/pull/98) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (4 months ago)
 
 #### ⭐ Recent Stars
 
