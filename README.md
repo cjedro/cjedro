@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 days ago)
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (2 days ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (3 days ago)
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer&#39;s helm chart repositories (3 days ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (2 weeks ago)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) - ☁️ Cloudeteer&#39;s Terraform Launchpad module (2 weeks ago)
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) - Vibecoded app that takes a picture from your blink camera and saves it locally. (2 months ago)
@@ -12,8 +12,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.8.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.8.0), 2 days ago) - cloudeteer&#39;s helm chart repositories
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.10.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.10.0), 2 days ago) - Microsoft 365 prometheus exporter
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.8.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.8.0), 3 days ago) - cloudeteer&#39;s helm chart repositories
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.10.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.10.0), 3 days ago) - Microsoft 365 prometheus exporter
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([26.10.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/26.10.1), 1 week ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) ([v0.13.0](https://github.com/cloudeteer/terraform-azurerm-launchpad/releases/tag/v0.13.0), 2 weeks ago) - ☁️ Cloudeteer&#39;s Terraform Launchpad module
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.12.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.12.0), 4 weeks ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
@@ -21,14 +21,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: create metrics based off advanced hunting queries](https://github.com/cloudeteer/m365-exporter/pull/114) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 days ago)
+- [feat: create metrics based off advanced hunting queries](https://github.com/cloudeteer/m365-exporter/pull/114) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 days ago)
 - [feat: allow github owner and repo id as input for new repos](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/67) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (2 weeks ago)
 - [add tests](https://github.com/cjedro/blink-snap/pull/18) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
 - [Document OAuth v2 refresh fix and JSON logging design.](https://github.com/cjedro/blink-snap/pull/17) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (2 months ago)
 - [fix: set accelerated_networking_enabled to true by default](https://github.com/cloudeteer/terraform-azurerm-vm/pull/103) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (3 months ago)
 - [build for arm](https://github.com/cjedro/blink-snap/pull/5) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
 - [add build](https://github.com/cjedro/blink-snap/pull/4) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
-- [add timelampse export](https://github.com/cjedro/blink-snap/pull/3) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
+- [add timelampse export](https://github.com/cjedro/blink-snap/pull/3) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (4 months ago)
 - [add basic metric for observability](https://github.com/cjedro/blink-snap/pull/2) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (4 months ago)
 - [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (4 months ago)
 
