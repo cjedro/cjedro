@@ -30,7 +30,7 @@
 - [add build](https://github.com/cjedro/blink-snap/pull/4) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (4 months ago)
 - [add timelampse export](https://github.com/cjedro/blink-snap/pull/3) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (4 months ago)
 - [add basic metric for observability](https://github.com/cjedro/blink-snap/pull/2) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (4 months ago)
-- [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (4 months ago)
+- [feat: add possibility to set accelerated_networking_enabled and ip_forwarding_enabled in the network interface](https://github.com/cloudeteer/terraform-azurerm-vm/pull/99) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (5 months ago)
 
 #### ⭐ Recent Stars
 
