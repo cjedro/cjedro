@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -  (3 days ago)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone (3 days ago)
 - [cjedro/blink-snap](https://github.com/cjedro/blink-snap) - Vibecoded app that takes a picture from your blink camera and saves it locally. (3 months ago)
 - [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (4 months ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (5 months ago)
