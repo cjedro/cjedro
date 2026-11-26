@@ -21,7 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: create metrics based off advanced hunting queries](https://github.com/cloudeteer/m365-exporter/pull/114) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 weeks ago)
+- [feat: create metrics based off advanced hunting queries](https://github.com/cloudeteer/m365-exporter/pull/114) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 month ago)
 - [feat: allow github owner and repo id as input for new repos](https://github.com/cloudeteer/terraform-azurerm-launchpad/pull/67) on [cloudeteer/terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) (1 month ago)
 - [add tests](https://github.com/cjedro/blink-snap/pull/18) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
 - [Document OAuth v2 refresh fix and JSON logging design.](https://github.com/cjedro/blink-snap/pull/17) on [cjedro/blink-snap](https://github.com/cjedro/blink-snap) (3 months ago)
